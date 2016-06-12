@@ -10,19 +10,30 @@ This program can delete files of a given type at one time.
  
 # FAQ:
 Q: I deleted a file I didn't want to.
+
 A: Go to your folder and open the properties. If all is well you can see previous versions at the top. Through this can usually retrieve the file. Otherwise you're unlucky, sorry.
 
+
 Q: Is it save to use?
-A: A program deleted files? <Enter sarcastic comment here>
+
+A: A program deleted files? (Enter sarcastic comment here).
+
 
 Q: What files can this program delete?
+
 A: The files that you say that should be removed.
 
+
 Q: This program can erase my hard drive?
+
 A: Perhaps, but I'm not sure.
 
+
 Q: I found a bug, what can I do?
+
 A: Make a bug report at the Issues page.
 
+
 Q: I want a feature added.
+
 A: Make a suggestion at the Issues page.
