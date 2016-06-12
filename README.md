@@ -16,7 +16,7 @@ A: Go to your folder and open the properties. If all is well you can see previou
 
 Q: Is it save to use?
 
-A: A program deleted files? (Enter sarcastic comment here).
+A: A program that can delete files? (Enter sarcastic comment here).
 
 
 Q: What files can this program delete?
